@@ -10,7 +10,6 @@ Content-Type: application/json
 GET http://{{host}}:{{port}}/api/v1/catalog/brand/status
 
 
-## Get All Brand
-
+### Get All Brand
 GET http://{{host}}:{{port}}/api/v1/catalog/brand/
 Content-Type: application/json
